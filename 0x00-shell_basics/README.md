@@ -144,3 +144,9 @@ ___
 > - The listing should end with a new line
 #### run
 `$ ./103-commas`
+___
+## 19. File type: School
+### school.mgc
+>a magic file that can be used with the command file to detect School data files.
+#### run
+`$ file -m school.mgc *`
