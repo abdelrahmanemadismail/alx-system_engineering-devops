@@ -93,3 +93,10 @@ ___
 >shell script prints the type of the file named `iamafile`. The file `iamafile` will be in the `/tmp` directory.
 #### run
 `$ ./12-file_type`
+___
+## 13. We are symbols, and inhabit symbols
+
+### 13-symbolic_link
+>shell script Create a symbolic link to `/bin/ls`, named `__ls__`. The symbolic link should be created in the current working directory.
+#### run
+`$ ./13-symbolic_link`
