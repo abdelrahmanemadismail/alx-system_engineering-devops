@@ -51,3 +51,10 @@ ___
 >shell script creates a directory named `my_first_directory` in the `/tmp/` directory.
 #### run
 `$ ./6-firstdirectory`
+___
+## 7. Betty in my first directory
+
+### 7-movethatfile
+>shell script Move the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
+#### run
+`$ ./7-movethatfile`
