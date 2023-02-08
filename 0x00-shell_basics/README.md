@@ -65,3 +65,10 @@ ___
 > - The file `betty` is in `/tmp/my_first_directory`.
 #### run
 `$ ./8-firstdelete`
+___
+## 9. Bye bye My first directory
+
+### 9-firstdirdeletion
+>shell script Delete the directory `my_first_directory` that is in the `/tmp` directory.
+#### run
+`$ ./9-firstdirdeletion`
