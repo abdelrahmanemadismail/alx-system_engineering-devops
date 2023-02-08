@@ -135,7 +135,7 @@ ___
 ## 18. Life is a series of commas, not periods
 ### 103-commas
 >shell script Write a command that lists all the files and directories of the current directory, separated by commas (`,`).
-
+>
 > - Directory names should end with a slash (`/`)
 > - Files and directories starting with a dot (`.`) should be listed
 > - The listing should be alpha ordered, except for the directories `.` and `..` which should be listed at the very beginning
@@ -148,5 +148,9 @@ ___
 ## 19. File type: School
 ### school.mgc
 >a magic file that can be used with the command file to detect School data files.
+#### Compile school file
+>to generate school.mgc
+#### use command
+    file -C -m school
 #### run
 `$ file -m school.mgc *`
