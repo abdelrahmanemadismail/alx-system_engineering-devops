@@ -72,3 +72,10 @@ ___
 >shell script Delete the directory `my_first_directory` that is in the `/tmp` directory.
 #### run
 `$ ./9-firstdirdeletion`
+___
+## 10. Back to the future
+
+### 10-back
+>shell script changes the working directory to the previous one.
+#### run
+`$ ./10-back`
