@@ -112,8 +112,14 @@ ___
 ___
 ## 15. Let’s move
 ### 100-lets_move
->shell script  moves all files beginning with an uppercase letter to the directory /tmp/u.
+>shell script  moves all files beginning with an uppercase letter to the directory `/tmp/u`.
 >
->You can assume that the directory /tmp/u will exist when we will run your script
+>You can assume that the directory `/tmp/u` will exist when we will run your script
 #### run
 `$ ./100-lets_move`
+___
+## 16. Clean Emacs
+### 101-clean_emacs
+>shell script Create a script that deletes all files in the current working directory that end with the character `~`.
+#### run
+`$ ./101-clean_emacs`
