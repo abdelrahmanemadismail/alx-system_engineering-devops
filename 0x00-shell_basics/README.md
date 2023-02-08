@@ -58,3 +58,10 @@ ___
 >shell script Move the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 #### run
 `$ ./7-movethatfile`
+___
+## 8. Bye bye Betty
+### 8-firstdelete
+>shell script Delete the file `betty`.
+> - The file `betty` is in `/tmp/my_first_directory`.
+#### run
+`$ ./8-firstdelete`
