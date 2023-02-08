@@ -27,3 +27,10 @@ ___
 >shell script display current directory contents in a long format.
 #### run
 `$ ./3-listfiles`
+___
+## 4. Hidden files
+
+### 4-listmorefiles
+>shell script display  current directory contents, including hidden files (starting with .). Use the long format.
+#### run
+`$ ./4-listmorefiles`
