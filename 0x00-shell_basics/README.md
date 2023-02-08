@@ -44,3 +44,10 @@ ___
 > - And hidden files (starting with .)
 #### run
 `$ ./5-listfilesdigitonly`
+___
+## 6. Welcome
+
+### 6-firstdirectory
+>shell script creates a directory named `my_first_directory` in the `/tmp/` directory.
+#### run
+`$ ./6-firstdirectory`
