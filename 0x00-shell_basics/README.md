@@ -34,3 +34,13 @@ ___
 >shell script display  current directory contents, including hidden files (starting with .). Use the long format.
 #### run
 `$ ./4-listmorefiles`
+___
+## 5. I love numbers
+
+### 5-listfilesdigitonly
+>shell script display  current directory contents.
+> - Long format
+> - with user and group IDs displayed numerically
+> - And hidden files (starting with .)
+#### run
+`$ ./5-listfilesdigitonly`
