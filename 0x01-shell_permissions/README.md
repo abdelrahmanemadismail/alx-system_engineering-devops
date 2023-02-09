@@ -122,3 +122,10 @@ ___
 > - The file hello will be in the working directory
 #### run
     ./13-change_group
+___
+## 14. Owner and group
+
+### 100-change_owner_and_group
+> Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+#### run
+    ./100-change_owner_and_group
