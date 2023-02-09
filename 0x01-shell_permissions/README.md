@@ -10,3 +10,17 @@
 #### run
     ./0-iam_betty
 ___
+## 1. Who am I
+
+### 1-who_am_i
+> shell script prints the effective username of the current user.
+#### run
+    ./1-who_am_i
+___
+## 2. Groups
+
+### 2-groups
+> shell script prints all the groups the current user is part of.
+#### run
+    ./2-groups
+___
