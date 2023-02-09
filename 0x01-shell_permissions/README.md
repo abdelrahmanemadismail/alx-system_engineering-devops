@@ -99,3 +99,10 @@ ___
 > Note: the mode of `olleh` will not always the same. Make sure your script works for any mode.
 #### run
     ./10-mirror_permissions
+___
+## 11. Directories
+
+### 11-directories_permissions
+> Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+#### run
+    ./11-directories_permissions
