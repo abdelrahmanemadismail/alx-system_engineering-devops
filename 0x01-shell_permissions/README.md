@@ -38,3 +38,12 @@ ___
 #### run
     ./4-empty
 ___
+## 5. Execute
+
+### 5-execute
+> shell script adds execute permission to the owner of the file `hello`.
+>
+> - The file hello will be in the working directory
+#### run
+    ./5-execute
+___
