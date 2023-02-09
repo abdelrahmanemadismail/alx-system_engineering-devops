@@ -24,3 +24,10 @@ ___
 #### run
     ./2-groups
 ___
+## 3. New owner
+
+### 3-new_owner
+> shell script changes the owner of the file hello to the user betty.
+#### run
+    ./3-new_owner
+___
