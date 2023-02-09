@@ -27,7 +27,14 @@ ___
 ## 3. New owner
 
 ### 3-new_owner
-> shell script changes the owner of the file hello to the user betty.
+> shell script changes the owner of the file `hello` to the user `betty`.
 #### run
     ./3-new_owner
+___
+## 4. Empty!
+
+### 4-empty
+> shell script creates an empty file called `hello`.
+#### run
+    ./4-empty
 ___
