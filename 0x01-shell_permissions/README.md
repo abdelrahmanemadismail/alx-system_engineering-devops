@@ -65,3 +65,15 @@ ___
 > - You are not allowed to use commas for this script
 #### run
     ./7-everybody
+___
+## 8. James Bond
+
+### 8-James_Bond
+> Write a script that sets the permission to the file hello as follows:
+> 
+> - Owner: no permission at all
+> - Group: no permission at all
+> - Other users: all the permissions
+> - The file hello will be in the working directory You are not allowed to use commas for this script
+#### run
+    ./8-James_Bond
