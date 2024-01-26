@@ -3,9 +3,15 @@
 
 for file in *
 do
-	if [[ ! $file =~ ^\. && $file =~ - ]]
+	if [[ ! $file =~ ^\. ]]
 	then
-		name=$(echo "$file" | cut -d '-' -f 2-)
-		echo "$name"
+		if [[ $file =~ - ]]
+		then
+			name=$(echo "$file" | cut -d '-' -f 2-)
+			echo "$name"
+		else
+			echo "$file"
+		fi
+
 	fi
 done
