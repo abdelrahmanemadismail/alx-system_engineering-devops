@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# This Bash script pings a specified IP address and sends 5 ICMP echo requests to check its reachability.
+
 if [ $# -ne 1 ]; then
     echo "Usage: $0 {IP_ADDRESS}"
     exit 1
